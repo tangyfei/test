@@ -1,1 +1,3 @@
-彩色花
+public class HelloWord{
+  //
+}
